@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 啊哈哈哈欢迎大家呀~
 
 You can use the [editor on GitHub](https://github.com/yoogan/myStudy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
