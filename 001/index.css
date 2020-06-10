@@ -14,3 +14,12 @@
         h1{
             animation: myfirst 2s infinite ;
         }
+        p{
+            width:56px;
+            height:15px;
+            font-size:18px;
+            font-family:Microsoft YaHei;
+            font-weight:400;
+            color:rgba(0,0,0,0);
+            line-height:27px;
+        }
